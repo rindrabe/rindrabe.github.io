@@ -108,16 +108,16 @@ analytics:
 author:
   name             : "Rindra Randriamanantena"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My portfolio"
-  location         : "Easton, PA"
+  bio              : "I am a Junior studying Computer Science and Mathematics & Economics at Lafayette College"
+  location         : "111 Quad Dr, Easton, PA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: randriar@lafayette.edu | rindrabe33@gmail.com
+      url: "randriar@lafayette.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://rindrabe33.github.io"
+      url: "https://rindrabe.github.io"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
