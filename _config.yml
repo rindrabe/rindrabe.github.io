@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Rindra Randriamanantena"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Junior at Lafayette College"
+  bio              : "My portfolio"
   location         : "Easton, PA"
   email            :
   links:
@@ -126,7 +126,7 @@ author:
       url: "https://facebook.com/rindranyaina.randriamanantena"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rindrabe"
+      url: "rindrabe"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
