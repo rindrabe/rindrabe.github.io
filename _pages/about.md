@@ -1,8 +1,9 @@
 ---
+layout: archive
 title: "About"
 permalink: /about/
 header:
-  image:"/images/andasibe.jpg"
+  image:"/images/andasibe.JPG"
 ---
 
 I am a multilingual Junior at Lafayette College majoring Computer Science and Mathematics & Economics.
