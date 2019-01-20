@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rindra Randriamanantena"
+title                    : "   RINDRA N. RANDRIAMANANTENA"
 title_separator          : "-"
 name                     : "Rindra Randriamanantena"
 description              : "My portfolio"
@@ -289,7 +289,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
@@ -300,4 +300,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
