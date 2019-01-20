@@ -4,6 +4,7 @@ permalink: /courses/
 title: "RELEVANT COURSES:"
 # author_profile: true
 ---
+# Welcome
 ## CS 105 Digital Media Computing
 Digital media processing forms a basic block in technologies underlying today’s successful media, social, and publishing companies. This course covers various techniques for the creation and manipulation of multimedia, including pictures, sounds, texts, and movies. Students learn the concepts and skills of object-oriented programming by designing and implementing a series of digital effects. **Java (Processing)**
  CS 150 Data Structure and Algorithms
