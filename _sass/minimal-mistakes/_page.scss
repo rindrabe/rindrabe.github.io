@@ -6,8 +6,8 @@
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
@@ -276,15 +276,15 @@
   }
 
   strong {
-    margin-right: 10px;
+    margin-right: 5px;
   }
 }
 
 .page__taxonomy-item {
   display: inline-block;
-  margin-right: 5px;
-  margin-bottom: 8px;
-  padding: 5px 10px;
+  margin-right: 3px;
+  margin-bottom: 5px;
+  padding: 3px 7px;
   text-decoration: none;
   border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
