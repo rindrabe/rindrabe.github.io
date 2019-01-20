@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Rindra Randriamanantena"
-  avatar           : "/images/profil_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My Portfolio"
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : # "My Portfolio"
   location         : "111 Quad Dr, Easton, PA"
   email            : "randriar@lafayette.edu"
   links:
