@@ -6,7 +6,7 @@ title: "RELEVANT COURSES:"
 ---
 ## CS 105 Digital Media Computing
 Digital media processing forms a basic block in technologies underlying today’s successful media, social, and publishing companies. This course covers various techniques for the creation and manipulation of multimedia, including pictures, sounds, texts, and movies. Students learn the concepts and skills of object-oriented programming by designing and implementing a series of digital effects. **Java(Processing)**
- CS 150 Data Structure and Algorithms
+## CS 150 Data Structure and Algorithms
 This course continues the development of object oriented approaches to the design and implementation of software systems. Students will learn to analyze problems, algorithms and develop object-oriented solutions to problems. Students will also learn to use multiple data structures and the accompanying algorithms to store, index and retrieve data. **Java**
 ## CS 200 Computers and Society
 This course examines the computer’s cultural context: the managerial, political, legal, ethical, psychological, and philosophical implications of computing. **Writing**
