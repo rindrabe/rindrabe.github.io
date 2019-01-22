@@ -5,19 +5,19 @@ title: "RELEVANT COURSES:"
 # author_profile: true
 ---
 ## CS 105 Digital Media Computing
-Digital media processing forms a basic block in technologies underlying today’s successful media, social, and publishing companies. This course covers various techniques for the creation and manipulation of multimedia, including pictures, sounds, texts, and movies. Students learn the concepts and skills of object-oriented programming by designing and implementing a series of digital effects. **Java(Processing)**
+Digital media processing forms a basic block in technologies underlying today’s successful media, social, and publishing companies. This course covers various techniques for the creation and manipulation of multimedia, including pictures, sounds, texts, and movies. Students learn the concepts and skills of object-oriented programming by designing and implementing a series of digital effects. ***Java(Processing)***
 ## CS 150 Data Structure and Algorithms
-This course continues the development of object oriented approaches to the design and implementation of software systems. Students will learn to analyze problems, algorithms and develop object-oriented solutions to problems. Students will also learn to use multiple data structures and the accompanying algorithms to store, index and retrieve data. **Java**
+This course continues the development of object oriented approaches to the design and implementation of software systems. Students will learn to analyze problems, algorithms and develop object-oriented solutions to problems. Students will also learn to use multiple data structures and the accompanying algorithms to store, index and retrieve data. ***Java***
 ## CS 200 Computers and Society
-This course examines the computer’s cultural context: the managerial, political, legal, ethical, psychological, and philosophical implications of computing. **Writing**
- CS 202 Analysis of Algorithms
+This course examines the computer’s cultural context: the managerial, political, legal, ethical, psychological, and philosophical implications of computing. ***Writing***
+## CS 202 Analysis of Algorithms
 The design and analysis of algorithms and their complexity. This course studies techniques for measuring algorithm complexity, fundamental algorithms and data structures, intractable problems, and algorithm-design techniques.
 ## CS 203 Computer Organization
-A study of digital logic, computer components, internal and external memory, instruction sets, interrupts, micro- and macro-programming. **C** and **Java**
+A study of digital logic, computer components, internal and external memory, instruction sets, interrupts, micro- and macro-programming. ***C and Java***
 ## CS 205 Software Engineering
-The analysis, design, implementation, and maintenance strategies appropriate for large software projects. **C++(Qt)**, **HTML** and **MySQL**
+The analysis, design, implementation, and maintenance strategies appropriate for large software projects. ***C++(Qt)***, ***HTML*** and ***MySQL***
 ## CS 320 Database Management System
-This course examines the organization, design, and implementation of database management systems. **PostgreSQL**, **Caspio** and **R**
+This course examines the organization, design, and implementation of database management systems. ***PostgreSQL***, ***Caspio*** and ***R***
 ## CS 417 Data Mining(Pending)
 ## ECON 251 INTERMEDIATE MICROECONOMICS
 A study of how individuals and organizations deal with the problem of scarcity, the role of prices in coordinating economic activity, criteria for determining desirable allocation of resources, the mix of private and public institutions, and the economic basis of public policies.
